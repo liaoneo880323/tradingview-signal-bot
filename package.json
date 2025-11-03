@@ -1,20 +1,8 @@
 {
   "name": "tradingview-signal-bot",
   "version": "1.0.0",
-  "description": "TradingView Webhook to Telegram Signal Bot",
+  "type": "module",
   "scripts": {
-    "dev": "vercel dev",
-    "start": "node api/webhook.js"
-  },
-  "dependencies": {},
-  "engines": {
-    "node": ">=18.x"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/liaoneo880323/tradingview-signal-bot/"
+    "dev": "vercel dev"
   }
-
 }
-
-
