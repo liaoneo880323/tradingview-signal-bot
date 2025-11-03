@@ -1,8 +1,5 @@
 {
   "name": "tradingview-signal-bot",
   "version": "1.0.0",
-  "type": "module",
-  "scripts": {
-    "dev": "vercel dev"
-  }
+  "type": "module"
 }
